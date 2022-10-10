@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naa55
-- 👀 I’m interested in PHP , LARAVEL, LIVEWIRE, REACT, JAVASCRIPT, MONGODB, MYSQL, TAILWIND, CSS
+- 👀 I’m interested in PHP , LARAVEL, REACT, JAVASCRIPT, MONGODB, MYSQL, TAILWIND, CSS
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on LARAVEL AND REACT
 - 📫 How to reach me betty.ablorh23@gmail.com
