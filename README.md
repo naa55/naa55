@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naa55
 - 👀 I’m interested in PHP , LARAVEL, REACT, JAVASCRIPT, MONGODB, MYSQL, TAILWIND, CSS
-- 🌱 I’m currently learning AWS, ANGULAR
-- 💞️ I’m looking to collaborate on LARAVEL, REACT AND ANGULAR
+- 🌱 I’m currently learning NEST JS
+- 💞️ I’m looking to collaborate on NEST JS, REACT AND ANGULAR
 - 📫 How to reach me betty.ablorh23@gmail.com
 
 <!---
