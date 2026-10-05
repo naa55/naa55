@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently developing a high-value purchase management software designed to handle core business operations across multiple locations.<br><br>I am looking to collaborate on anything java or spring boot<br><br> I am currently learning Spring Boot<br>
+I am currently developing a hire purchase management software designed to handle core business operations across multiple locations.<br><br>I am looking to collaborate on anything java or spring boot<br><br> I am currently learning Spring Boot<br>
 
 
 ## 🌐 Socials:
